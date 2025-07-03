@@ -1,0 +1,10 @@
+pyyaml
+autogen
+streamlit
+pillow
+openai
+python-dotenv
+autogen-agentchat
+autogen-core
+autogen-ext
+azure-identity
